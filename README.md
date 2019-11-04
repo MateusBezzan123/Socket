@@ -2,8 +2,8 @@
 
 
 Grupo:
-Mateus Bezzan
-Isaias Batista
+Mateus Bezzan,
+Isaias Batista,
 João Ricardo
 
 
